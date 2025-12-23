@@ -1,0 +1,181 @@
+{
+    "personalInfo": {
+        "name": "Giuseppe Ministeri",
+        "email": "peppemini@gmail.com",
+        "location": "Italy, Remote",
+        "title": "Funny Front End Developer",
+        "quote": "Fun is a serious thing",
+        "links": [
+            {
+                "name": "Github",
+                "url": "https://github.com/AjejeBrazorf"
+            },
+            {
+                "name": "CodePen",
+                "url": "https://codepen.io/ajejebrazorf"
+            },
+            {
+                "name": "Rive",
+                "url": "https://rive.app/@giuseppem/"
+            },
+            {
+                "name": "LinkedIn",
+                "url": "https://linkedin.com/in/giuseppe-ministeri-146464102"
+            }
+        ],
+        "profilePictureUrl": "https://ajeje-host.netlify.app/public/cv/profile-pic.webp"
+    },
+    "workExperience": [
+        {
+          "position": "Senior Front End Developer",
+          "company": "Aptus.AI",
+          "link": "",
+          "duration": {
+            "start": "07/2025",
+            "end": null
+          },
+          "location": "Remote",
+          "tasks": [
+            "Implemented features and A/B tests (Tasntack & React) for chat and platform",
+            "Monitor and handle costs and performances of tracking, development and observability tools"
+          ],
+            "iconUrl": null
+        },
+        {
+            "position": "Senior Front End Developer",
+            "company": "Treedom",
+            "link": "",
+            "time": {
+                "start": "02/2022",
+                "end": "07/2025"
+            },
+            "location": "Remote",
+            "tasks": [
+                "Migrated legacy projects to modern stacks (Next.js, React, GraphQL) optimising and measuring performance",
+                "Focused on visuals and interactive implementations (Tailwind, SCSS, Rive)",
+                "Collaborated with product/sales/design teams to define UX and timelines",
+                "Worked on A/B testing features and improving internal tools"
+            ],
+            "iconUrl": null
+        },
+        {
+            "position": "Front End Developer",
+            "company": "AVEVA",
+            "link": "",
+            "time": {
+                "start": "09/2019",
+                "end": "01/2022"
+            },
+            "location": "Utrecht, Netherlands",
+            "tasks": [
+                "Built dashboards for SAP plugin used for large-scale industrial maintenance",
+                "Implemented company design system"
+            ],
+            "iconUrl": null
+        },
+        {
+            "position": "Web Developer",
+            "company": "Madfarm & AITHO",
+            "link": "",
+            "time": {
+                "start": "01/2018",
+                "end": "06/2019"
+            },
+            "location": "Catania, Italy",
+            "tasks": [
+                "Built UI animations and WordPress templates, landing pages and e-commerces",
+                "Worked full stack on banking web app"
+            ],
+            "iconUrl": null
+        },
+        {
+            "position": "Developer Trainee",
+            "company": "Telecom Joint OpenLab",
+            "link": "",
+            "time": {
+                "start": "04/2015",
+                "end": "07/2015"
+            },
+            "location": "Turin, Italy",
+            "tasks": [
+                "Developed a web interface for home automation/video surveillance using Angular.js, ROS API, Three.js and interfaces to Raspberry PI sensors"
+            ],
+            "iconUrl": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Cinema and Media Engineering",
+            "institution": "Polytechnic University of Turin",
+            "link": "",
+            "time": {
+                "start": "09/2011",
+                "end": "12/2017"
+            },
+            "location": "Turin, Italy",
+            "iconUrl": null,
+            "final_grade": "106 / 110"
+        },
+        {
+            "degree": "EU Erasmus+ programme",
+            "institution": "Valencia Polytechnic University",
+            "link": "",
+            "time": {
+                "start": "09/2016",
+                "end": "02/2017"
+            },
+            "location": "Gandia, Spain",
+            "iconUrl": null,
+            "final_grade": null
+        }
+    ],
+    "tools": {
+        "": [
+            "Tanstack",
+            "Next.js",
+            "React",
+            "GraphQL",
+            "TypeScript",
+            "SCSS",
+            "Git",
+            "Tailwind",
+            "AngularJS",
+            "Angular 2+",
+            "Vue",
+            "Three.js",
+            "Figma",
+            "Blender",
+            "Rive",
+            "Unity"
+        ]
+    },
+    "publications": [
+        {
+            "title": "A movement analysis system based on immersive virtual reality and wearable technology for sport training",
+            "link": "http://hdl.handle.net/11583/2697825",
+            "date": "02/2018",
+            "description": "Author at 4th International Conference on Virtual Reality – ICVRV2018"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Italian",
+            "level": "C2"
+        },
+        {
+            "language": "English",
+            "level": "B2"
+        },
+        {
+            "language": "Spanish",
+            "level": "B1"
+        }
+    ],
+    "interests": [
+        "Sustainability",
+        "Photography",
+        "Digital Illustration",
+        "Interactive Animation",
+        "Playing Guitar"
+    ]
+}
