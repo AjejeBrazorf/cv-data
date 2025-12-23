@@ -1,0 +1,2 @@
+📄 CV Data Store
+This repository acts as a Static API for my professional curriculum vitae. It hosts the structured JSON data used to build and populate my [CV Website](https://giuseppeministeri.netlify.app/).
